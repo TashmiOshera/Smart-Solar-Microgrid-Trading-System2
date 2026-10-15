@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Smart Solar Microgrid Trading System
 
 A client-server application developed for the **SE4040 – Enterprise Application Development** module at **SLIIT**.
@@ -453,3 +454,6 @@ This project was developed as part of the **SE4040 – Enterprise Application De
 ## 📜 License
 
 This project is developed for academic purposes as part of the SE4040 Enterprise Application Development module.
+=======
+# Smart-Solar-Microgrid-Trading-System2
+>>>>>>> origin/main
